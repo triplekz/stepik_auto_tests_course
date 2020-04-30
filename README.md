@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-Homework https://stepik.org/course/575/
+This is Homework from Stepik. URL: https://stepik.org/course/575/
